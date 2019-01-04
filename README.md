@@ -6,21 +6,16 @@ Code based on Python3 and [Pillow](https://pillow.readthedocs.io/en/stable/)
 
 INSTALATION
 ----------
-```
+```bash
 pip3 install -r requirements.txt
 ```
 
 USAGE
 ----------
-```
+```bash
 python3 main.py
 ```
 
-Input
-![Input image](filename.png "input image")
-
-Watermark
-![watermark image](watermark.png "watermark image")
-
-Output
-![output image](output.png "output image")
+Input/Output
+---------------
+![Input image](io.fig "input outp image")
