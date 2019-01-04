@@ -18,4 +18,4 @@ python3 main.py
 
 Input/Output
 ---------------
-![Input image](io.fig "input outp image")
+![Input image](io.gif "input outp image")
